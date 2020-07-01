@@ -1,1 +1,1 @@
-# randomForest supports training segmented data and predict.
+# randomForest supports training segmented data and predicting.
